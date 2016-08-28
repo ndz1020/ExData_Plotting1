@@ -1,3 +1,12 @@
+## Exploratory Data Analysis: Course Project 1
+This repository contains my work for the first course project of Exploratory Data Analysis, a part of Data Science Specializaion on Coursera.  I created 4 plots based on the dataset with the detailed information coming along, and the results allowed me to provide four R code files.  Each R code file will construct the corresponding plot and PNG file.  
+
+This repository has four R code files: plot1.R, plot2.R, plot3.R, and plot 4.R.
+This repository has four PNG files: plot1.png, plot2.png, plot3.png, and plot4.png
+
+
+Detailed course assignment information are as follow:
+
 ## Introduction
 
 This assignment uses data from
